@@ -12,6 +12,10 @@
 
 4. Новый масив выводится в консоль.
 
+**Ссылка на алгоритм:**
+
+![algorithm](https://github.com/IrinaPenkina/C_Module_Project/blob/main/Algorithm.png)
+
 
 **Пример:**
 
